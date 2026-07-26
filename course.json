@@ -1,0 +1,18 @@
+[
+    {
+        "course name": "Math",
+        "course id": "CS101",
+        "credit hours": 3,
+        "students": {
+            "101": 95.0
+        }
+    },
+    {
+        "course name": "cs",
+        "course id": "12",
+        "credit hours": 3,
+        "students": {
+            "111": 99.0
+        }
+    }
+]

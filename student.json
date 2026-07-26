@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "John",
+        "ID": "101",
+        "Academic Year": "3rd",
+        "Courses": [
+            {
+                "id": "CS101",
+                "name": "Math",
+                "credit_hours": 3
+            }
+        ]
+    },
+    {
+        "Name": "mohamed",
+        "ID": "111",
+        "Academic Year": "2",
+        "Courses": [
+            {
+                "id": "12",
+                "name": "cs",
+                "credit_hours": 3
+            }
+        ]
+    }
+]
